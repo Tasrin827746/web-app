@@ -1,0 +1,35 @@
+{
+    "items": [
+        {
+            "icon": "https://i.ibb.co.com/CMxL9Vm/maill.jpg",
+            "title": "Quick guide to Lark Mail",
+            "description": "Lark Mail is a mailbox tool that'll enhance communication and boost productivity for your organization. Learn about it in this quick guide."
+        },
+        {
+            "icon": "https://i.ibb.co.com/CMxL9Vm/maill.jpg",
+            "title": "Configure Outlook account for Lark email migration",
+            "description": "Configure the Outlook admin console to authorize email migration."
+        },
+        {
+            "icon": "https://i.ibb.co.com/CMxL9Vm/maill.jpg",
+            "title": "Bind Gmail service to Lark Mail",
+            "description": "Organizations can bind Gmail service to Lark Mail so that members can directly send and receive emails from their Gmail account in Lark."
+        },
+        {
+            "icon": "https://i.ibb.co.com/CMxL9Vm/maill.jpg",
+            "title": "Lark Mail setup guide",
+            "description": "For administrators who want to activate an IMAP/STMP email account that is being migrated to Lark Mail."
+        },
+        {
+            "icon": "https://i.ibb.co.com/CMxL9Vm/maill.jpg",
+            "title": "Use a public mailbox to send and receive emails",
+            "description": "Administrators can centralize email management by creating public mailboxes that are accessible by multiple users."
+        },
+        {
+            "icon": "https://i.ibb.co.com/CMxL9Vm/maill.jpg",
+            "title": "Use Lark Mail on third-party email clients",
+            "description": "Log in to Lark Mail through third-party email clients."
+        }
+    ]
+}
+  

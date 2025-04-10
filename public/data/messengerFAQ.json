@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "icon": "https://i.ibb.co.com/BKKF71w/messenger.jpg",
+            "title": "Translate text messages",
+            "description": "Lark provides translation for 18 languages: English, Chinese."
+        },
+        {
+            "icon": "https://i.ibb.co.com/BKKF71w/messenger.jpg",
+            "title": "Schedule messages to be sent later",
+            "description": "Send scheduled messages in chats when working across time zones or when you're on leave."
+        },
+        {
+            "icon": "https://i.ibb.co.com/BKKF71w/messenger.jpg",
+            "title": "Check read or unread status of messages",
+            "description": "Check whether a message you've sent has been read by the recipient."
+        },
+        {
+            "icon": "https://i.ibb.co.com/BKKF71w/messenger.jpg",
+            "title": "React to messages using emojis",
+            "description": "React to messages in a chat using emojis and everyone in the chat can see them."
+        },
+        {
+            "icon": "https://i.ibb.co.com/BKKF71w/messenger.jpg",
+            "title": "Streamline communication with threads",
+            "description": "Connect all the relevant messages and replies in the chat without distraction from unrelated messages."
+        },
+        {
+            "icon": "https://i.ibb.co.com/BKKF71w/messenger.jpg",
+            "title": "Send audio messages",
+            "description": "Automatically convert audio messages you receive into text if you prefer reading over listening to messages."
+        }
+    ]
+}

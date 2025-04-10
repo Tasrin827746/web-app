@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "name": "Customer Engagement",
+      "description": "Enhance customer relationships and interactions",
+      "icon": "https://i.ibb.co/2PqDF5t/customer-engagement.jpg",
+      "link": "/customer-engagement"
+    },
+    {
+      "id": "2",
+      "name": "Team Collaboration",
+      "description": "Streamline communication across teams",
+      "icon": "https://i.ibb.co/8XgMGWs/team-collaboration.jpg",
+      "link": "/team-collaboration"
+    },
+    {
+      "id": "3",
+      "name": "Remote Work",
+      "description": "Empower productivity from anywhere",
+      "icon": "https://i.ibb.co/6J4yFsG/remote-work.jpg",
+      "link": "/remote-work"
+    },
+    {
+      "id": "4",
+      "name": "Sales Management",
+      "description": "Simplify and optimize your sales processes",
+      "icon": "https://i.ibb.co/bPkd5rH/sales-management.jpg",
+      "link": "/sales-management"
+    },
+    {
+      "id": "5",
+      "name": "IT Solutions",
+      "description": "Secure and scalable tools for IT teams",
+      "icon": "https://i.ibb.co/NN0HkKd/it-solutions.jpg",
+      "link": "/it-solutions"
+    }
+  ]
+  
