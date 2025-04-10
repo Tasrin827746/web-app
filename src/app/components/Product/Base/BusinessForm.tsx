@@ -4,20 +4,23 @@ import ImageComponent from "@/app/components/common/ImageComponent";
 import LinkComponent from "@/app/components/common/LinkComponent";
 import { useState, useEffect } from "react";
 
+// Define union type for tab keys
+type TabKey = "List View" | "Kanban View" | "Gantt View" | "Gallery View";
+
+// Images for each view with type safety
+const images: Record<TabKey, string[]> = {
+  "List View": ["https://i.ibb.co.com/DG5h3WL/listview.png"],
+  "Kanban View": ["https://i.ibb.co.com/cyfYsRc/kanbanview.png"],
+  "Gantt View": ["https://i.ibb.co.com/6gQrW5J/ganttview.png"],
+  "Gallery View": ["https://i.ibb.co.com/2ZHwsMn/galleryview.png"],
+};
+
 const BusinessForm = () => {
   // State to track the active tab
-  const [activeTab, setActiveTab] = useState("List View");
-
-  // Images for each view
-  const images = {
-    "List View": ["https://i.ibb.co.com/DG5h3WL/listview.png"],
-    "Kanban View": ["https://i.ibb.co.com/cyfYsRc/kanbanview.png"],
-    "Gantt View": ["https://i.ibb.co.com/6gQrW5J/ganttview.png"],
-    "Gallery View": ["https://i.ibb.co.com/2ZHwsMn/galleryview.png"],
-  };
+  const [activeTab, setActiveTab] = useState<TabKey>("List View");
 
   // Array of the tabs
-  const tabs = Object.keys(images);
+  const tabs = Object.keys(images) as TabKey[];
 
   useEffect(() => {
     // Set interval to change the tab every 5 seconds
