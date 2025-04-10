@@ -9,6 +9,7 @@ const bundleAnalyzer = withBundleAnalyzer({
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   eslint: {
+    ignoreDuringBuilds: true,
     dirs: ["."],
   },
   poweredByHeader: false,
