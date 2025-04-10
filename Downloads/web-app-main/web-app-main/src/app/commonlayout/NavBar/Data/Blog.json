@@ -1,0 +1,31 @@
+[
+    {
+      "id": "1",
+      "name": "Latest Updates",
+      "description": "Stay informed with the latest news and updates",
+      "icon": "https://i.ibb.co/tbZQGJy/latest-updates.jpg",
+      "link": "/latest-updates"
+    },
+    {
+      "id": "2",
+      "name": "Case Studies",
+      "description": "Discover how customers use our solutions",
+      "icon": "https://i.ibb.co/jDgzZzL/case-studies.jpg",
+      "link": "/case-studies"
+    },
+    {
+      "id": "3",
+      "name": "Tips & Tricks",
+      "description": "Learn tips to maximize your productivity",
+      "icon": "https://i.ibb.co/FD4VJwx/tips-tricks.jpg",
+      "link": "/tips-tricks"
+    },
+    {
+      "id": "4",
+      "name": "Industry Insights",
+      "description": "Get insights into trends and best practices",
+      "icon": "https://i.ibb.co/NjqJxG1/industry-insights.jpg",
+      "link": "/industry-insights"
+    }
+  ]
+  
