@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "icon": "https://i.ibb.co.com/Xb8ZRzr/basee.jpg",
+      "title": "Use automated workflows in Base",
+      "description": "After configuring the triggering conditions and actions, Base will automatically perform the actions based on data changes."
+    },
+    {
+      "icon": "https://i.ibb.co.com/Xb8ZRzr/basee.jpg",
+      "title": "Create and insert a Base",
+      "description": "With Base, you can build flexible lightweight databases that meet your unique business needs."
+    },
+    {
+      "icon": "https://i.ibb.co.com/Xb8ZRzr/basee.jpg",
+      "title": "Use Base advanced permissions",
+      "description": "Configure who can view and edit specific fields or records in a table, and who can view dashboards."
+    },
+    {
+      "icon": "https://i.ibb.co.com/Xb8ZRzr/basee.jpg",
+      "title": "Sync data between Bases",
+      "description": "Gather all your key data into a single base by syncing with other Bases."
+    },
+    {
+      "icon": "https://i.ibb.co.com/Xb8ZRzr/basee.jpg",
+      "title": "Use form view in Base",
+      "description": "Form view converts a table in base into a form. You can send the form to specific groups or your entire network to quickly gather and add information to your table."
+    },
+    {
+      "icon": "https://i.ibb.co.com/Xb8ZRzr/basee.jpg",
+      "title": "Send sales reports to groups - Base automation use case",
+      "description": "Base's automated workflow enables you to automate the sending of messages to private and group chats, with wide-ranging customization and style options."
+    }
+  ]
+}

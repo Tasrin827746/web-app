@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "name": "Documentation",
+      "description": "Find detailed guides and API references",
+      "icon": "https://i.ibb.co/YjDQ7Vb/documentation.jpg",
+      "link": "/documentation"
+    },
+    {
+      "id": "2",
+      "name": "Community",
+      "description": "Connect with peers and experts for advice",
+      "icon": "https://i.ibb.co/R4fF97L/community.jpg",
+      "link": "/community"
+    },
+    {
+      "id": "3",
+      "name": "Support",
+      "description": "Get help from our support team",
+      "icon": "https://i.ibb.co/dth7Wfw/support.jpg",
+      "link": "/support"
+    },
+    {
+      "id": "4",
+      "name": "Webinars",
+      "description": "Learn best practices from industry leaders",
+      "icon": "https://i.ibb.co/M7gp6Ch/webinars.jpg",
+      "link": "/webinars"
+    },
+    {
+      "id": "5",
+      "name": "Case Studies",
+      "description": "See how others succeed with our tools",
+      "icon": "https://i.ibb.co/kH3FJTx/casestudies.jpg",
+      "link": "/case-studies"
+    },
+    {
+      "id": "6",
+      "name": "FAQs",
+      "description": "Find answers to common questions",
+      "icon": "https://i.ibb.co/mX9cGfT/faqs.jpg",
+      "link": "/faqs"
+    }
+  ]
+  
